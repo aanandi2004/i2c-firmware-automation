@@ -1,0 +1,3 @@
+Timestamp,Test Case,Command,Expected,Actual,Result
+2026-06-25 22:04:47,TC001,START,START,Received from Python : START Command sent to Arduino Arduino Response :,PASS
+2026-06-25 22:04:49,TC002,STOP,STOPPED,Received from Python : STOP Command sent to Arduino Arduino Response : STOPPED STOPPED,PASS
