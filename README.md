@@ -267,7 +267,7 @@ python plot_results.py
 
 ## Author
 
-Aanandi Arya
+Aanandi Aarya
 
 Electronics and Communication Engineering
 Embedded Systems | IoT | VLSI
